@@ -10,5 +10,7 @@
 ![](https://github.com/LizavetaSKR/hw6/blob/master/hurts.png)
 
 Употребляются оба глагола: officers were hurt/wounded
+
 Употребляется только с hurt: hurt my ankle
+
 Употребляется только с wound: hundreds were wounded
